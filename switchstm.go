@@ -7,7 +7,7 @@ func main() {
 	switch day := 4; day {
 
 	case 1:
-		fmt.Println("Monday")
+		fmt.Println("Monday1")
 	case 2:
 		fmt.Println("Tuesday")
 	case 3:
